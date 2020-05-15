@@ -1,0 +1,6 @@
+{
+  "short_name": "HackerStreams",
+  "name": "Streams of Hackers",
+  "start_url": ".",
+  "display": "standalone"
+}
